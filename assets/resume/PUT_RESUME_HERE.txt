@@ -1,0 +1,8 @@
+Place your actual resume PDF here, named exactly:
+
+  Dhivakar_K_Resume.pdf
+
+The "Download Resume" buttons in index.html already point to:
+  assets/resume/Dhivakar_K_Resume.pdf
+
+Once you add the real file, delete this note.
